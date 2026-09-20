@@ -91,10 +91,3 @@ Data Scientist at **Lyft**, building real-time incentive and forecasting systems
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rae-ymr&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=2E6E64&text_color=c9d1d9)
 
----
-
-### Beyond the resume
-
-**AI at the edge** — fine-tuning models small enough to run on a drone mid-flight.
-**Optimization** — quadratic programming for things that have to make a decision in milliseconds, not minutes.
-**Currently** — building out [rachel.space](https://rae-ymr.github.io/rachel.space/), one section at a time.
