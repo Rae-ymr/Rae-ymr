@@ -85,9 +85,5 @@ Data Scientist at **Lyft**, building real-time incentive and forecasting systems
 
 ---
 
-### Stats
 
-![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rae-ymr&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=2E6E64&icon_color=2E6E64&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rae-ymr&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=2E6E64&text_color=c9d1d9)
 
