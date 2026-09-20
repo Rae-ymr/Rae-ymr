@@ -2,11 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=2E6E64&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Applied+ML+%2B+Real-Time+Optimization;Data+Scientist+%40+Lyft;LoRA+fine-tuning+%C2%B7+quadratic+optimization+%C2%B7+RAG)](https://git.io/typing-svg)
 
+<div align="center">
+
 [![Website](https://img.shields.io/badge/Website-0d1117?style=flat&logo=safari&logoColor=2E6E64)](https://rae-ymr.github.io/rachel.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=2E6E64)](https://linkedin.com/in/rachel190)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=2E6E64)](mailto:ymrrachel@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-0d1117?style=flat&logo=googlescholar&logoColor=2E6E64)](https://scholar.google.com/citations?user=PTRM5cMAAAAJ&hl=en)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rae-ymr&color=2E6E64&style=flat&label=Visitors)
+
+</div>
 
 Data Scientist at **Lyft**, building real-time incentive and forecasting systems. Previously fine-tuned edge LLMs at **NTT Data** and planned drone paths as a Graduate Research Assistant at the **University of Calgary**.
 
