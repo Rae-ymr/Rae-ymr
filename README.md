@@ -5,7 +5,8 @@
 [![Website](https://img.shields.io/badge/Website-0d1117?style=flat&logo=safari&logoColor=2E6E64)](https://rae-ymr.github.io/rachel.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=2E6E64)](https://linkedin.com/in/rachel190)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=2E6E64)](mailto:ymrrachel@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-0d1117?style=flat&logo=googledocs&logoColor=2E6E64)](https://rae-ymr.github.io/rachel.space/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rae-ymr&color=2E6E64&style=flat&label=Visitors)
 
 Data Scientist at **Lyft**, building real-time incentive and forecasting systems. Previously fine-tuned edge LLMs at **NTT Data** and planned drone paths as a Graduate Research Assistant at the **University of Calgary**.
 
@@ -25,10 +26,10 @@ Data Scientist at **Lyft**, building real-time incentive and forecasting systems
 
 ### Publications & Patents
 
-- **Monocular Vision Measurement for UAV Obstacle Avoidance and Path Planning with Circle RRT\*** — IEEE Open Journal of Instrumentation and Measurement, 2026
-- **Shaping Tomorrow: Responsible Innovation for a Brighter Future** — World Economic Forum, 2025
-- **Two-Stage Approach to Small-Object Detection** — Systems Engineering, 2024
-- **Small-object Detection for UAV-based Images** — IEEE SysCon, 2023
+- [**Monocular Vision Measurement for Drones Obstacle Avoidance and Autonomous Path Planning With Circle RRT\***](https://www.researchgate.net/publication/409415879_Monocular_Vision_Measurement_for_Drones_Obstacle_Avoidance_and_Autonomous_Path_Planning_With_Circle_RRT) — IEEE Open Journal of Instrumentation and Measurement, 2026
+- [**Shaping Tomorrow: Responsible Innovation for a Brighter Future**](https://reports.weforum.org/docs/WEF_Shaping_Tomorrow_Responsible_Innovation_for_a_Brighter_Future_2025.pdf) — World Economic Forum, 2025
+- [**Two-Stage Approach to Small-Object Detection**](https://incose.onlinelibrary.wiley.com/doi/full/10.1002/sys.21800) — Systems Engineering, 2024
+- [**Small-Object Detection for UAV-Based Images**](https://ieeexplore.ieee.org/document/10131084/) — IEEE SysCon, 2023
 - **System and Method for Class-Agnostic Counting of Items in a Container** — U.S. Patent App. No. 19/078,802 (pending)
 
 ---
